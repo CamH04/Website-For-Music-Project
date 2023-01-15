@@ -1,0 +1,27 @@
+
+h1{
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+    font-family: "Montserrat", sans-serif;
+}
+
+.bio{
+  display: flex;
+  justify-content: center;
+}
+
+.ImgHyperlinks{
+  display: flex;
+  justify-content:center;
+  /* margin-top: 38%; */
+}
+
+.container{
+  border-radius: 10px;
+}
+
+
+
+
+

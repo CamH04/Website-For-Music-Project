@@ -1,0 +1,52 @@
+h1{
+  display: flex;
+  justify-content: center;
+}
+h2{
+  display: flex;
+  justify-content: center;
+}
+.bio{
+    display: flex;
+    justify-content: center;
+}
+
+.Album-Img {
+  display: flex;
+  justify-content: center;
+}
+.Ep-Img{
+  display: flex;
+  justify-content: center;
+}
+.Singles-Img{
+  display: flex;
+  justify-content: center;
+}
+.Comp-Img{
+  display: flex;
+  justify-content: center;
+}
+.Mix-Img{
+  display: flex;
+  justify-content: center;
+}
+.Ost-Img{
+  display: flex;
+  justify-content: center;
+}
+
+.Art{
+  margin: 20px;
+}
+
+p{
+  display: flex;
+  justify-content: center;
+}
+
+.icon{
+  display: flex;
+  justify-content: center;
+}
+
